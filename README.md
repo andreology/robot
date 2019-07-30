@@ -6,7 +6,7 @@ Arduino Uno Elegoo
 
 features
   - Tempeture and humidity checks for plant
-  - DC motor to cool fans with fan
+  - DC motor to cool plant with fan
   - LCD display to show data on plant health
   - Remote control to choose a setting or navigate robot settings
   - Clock module for reminders
